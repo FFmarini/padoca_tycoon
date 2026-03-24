@@ -1,1 +1,1 @@
-# padoca_tycoon
+Padoca Tycoon é um projeto pessoal e muito desafiador para quem nunca desenvolveu nada, conhece apenas o minímo do minímo de programação, mas que tenta fazar algo com a ajude de IA, Será um Simuador de Padaria, com 
